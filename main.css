@@ -1,0 +1,190 @@
+/* { border: 1px solid red;
+} */
+
+body {
+  /*background-color: #7997A1;*/
+  background-image: url(https://cdn2.unrealengine.com/orion/blog/paragon_bronze-1920x1080-1150145284.jpg);
+  background-position: center;
+  background-attachment: fixed;
+  margin: 0px;
+}
+
+/*overflow: scroll;
+-webkit-overflow-scrolling: touch;*/
+
+.title {
+  width: 100%;
+  height: 50px;
+  background-color: #dbbd68;
+  font-family: Questrial, Helvetica, sans-serif;
+  color: black;
+  font-size: 22px;
+  text-align: center;
+  font-weight: bold;
+  padding: 12px;
+}
+
+.name {
+  font-family: Questrial, Helvetica, sans-serif;
+  color: black;
+  font-size: 22px;
+  text-align: center;
+  font-weight: bold;
+  border: 1px solid red;
+}
+
+.header {
+  margin-top: 2px;
+}
+
+#phrases {
+  text-align: center;
+  margin-top: 15px;
+}
+
+button {
+  background-color: black;
+  text-align: center;
+  color: white;
+  padding: 10px;
+  border: 2px solid white;
+  border-radius: 5px;
+  font-size: 18px;
+  height: 70px;
+  font-family: Questrial, Helvetica, sans-serif;
+}
+
+button:hover {
+  background-color: #dbbd68;
+  color: black;
+}
+
+.box {
+  width: 100%;
+  background-color: black;
+  text-align: center;
+  color: white;
+  padding: 10px;
+  border: 2px solid white;
+  border-radius: 5px;
+  font-size: 18px;
+  height: 50px;
+  font-family: Questrial, Helvetica, sans-serif;
+
+}
+
+option {
+  background-color: black;
+  text-align: center;
+  color: white;
+}
+
+#txtbox {
+  font-size: 21px;
+  font-family: Questrial, Helvetica, sans-serif;
+  width: 300px;
+  box-sizing: border-box;
+  margin: auto;
+  margin-bottom: 30px;
+  margin-top: 30px;
+}
+
+#challenge {
+  text-align: center;
+  background: rgba(0, 0, 0, .6);
+  color: white;
+  line-height: 107%;
+  margin: auto;
+  margin-bottom: 26px;
+  padding: 15px;
+  /*font-size: 20px;*/
+  font-family: Questrial, Helvetica, sans-serif;
+}
+
+/*h1 {
+  height: 70px;
+}*/
+
+span {
+  font-weight: 900;
+  color: #dbbd68;
+}
+
+#challengeForYou {
+  font-family: Questrial, Helvetica, sans-serif;
+  text-align: center;
+  /*width: 300px;*/
+  margin: auto;
+  margin-top: 30px;
+  font-size: 20px;
+  color: white;
+  font-weight: normal;
+  background: rgba(0, 0, 0, .5);
+  padding: 10px;
+}
+
+.nope.p {
+  visibility: hidden;
+}
+
+.medium {
+  height: 60px;
+}
+
+.twitter {
+  font-family: Questrial, Helvetica, sans-serif;
+  color:  white;
+  font-size: 16px;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #dbbd68;
+  text-decoration: none;
+}
+
+.site {
+  font-family: Questrial, Helvetica, sans-serif;
+  color:  white;
+  font-size: 16px;
+
+}
+
+.footer {
+  margin-top: 18px;
+  position: relative;
+}
+
+.changelog {
+  margin-top: 12px;
+  position: relative;
+  font-family: Questrial, Helvetica, sans-serif;
+  font-size: 16px;
+  color: white;
+}
+
+.features {
+  font-family: Questrial, Helvetica, sans-serif;
+  color:  white;
+  font-size: 16px;
+}
+
+.future {
+  font-family: Questrial, Helvetica, sans-serif;
+  color:  white;
+  font-size: 16px;
+}
+
+.version {
+  font-size: 13px;
+  color: #939393;
+  font-family: Questrial, Helvetica, sans-serif;
+}
+
+.jon {
+  text-decoration: underline;
+}
